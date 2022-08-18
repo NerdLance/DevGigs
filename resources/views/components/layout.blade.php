@@ -32,7 +32,7 @@
             <a href="/"
                 ><img class="w-24" src="{{asset('images/devgigs-logo-250.png')}}" alt="" class="logo"
             /></a>
-            <ul class="flex space-x-6 mr-6 text-lg">
+            <ul class="flex space-x-6 mr-6 text-sm md:text-lg">
                 @auth
                     <li>
                         <span class="font-bold uppercase">
